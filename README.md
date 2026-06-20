@@ -17,7 +17,7 @@ Se aparecer a versão do gcc, está pronto pra compilar.
 ## 2. Entrar na pasta dos exercícios
 
 ```powershell
-cd "D:\Faculdade\3 semestre\Estrutura de Dados\Atividades\Lista de Exercicios I e II"
+cd "seu repositório"
 ```
 
 ## 3. Compilar um exercício
