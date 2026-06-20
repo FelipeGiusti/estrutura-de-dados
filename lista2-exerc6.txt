@@ -1,0 +1,1 @@
+A lista circular, tem como principal caracterisca o ultimo elemente se conectando diretamente com o primeiro elemente ao inves de apontar para null. Um aplicação prática do nosso dia a dia seria uma playlist de musicas.

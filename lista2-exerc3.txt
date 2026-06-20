@@ -1,0 +1,5 @@
+void sair(){
+		while(top){
+			pop();
+		}
+	}

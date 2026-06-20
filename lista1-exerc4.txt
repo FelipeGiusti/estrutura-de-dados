@@ -1,0 +1,1 @@
+O tipo do ponteiro deve ser o mesmo tipo definido na criação da struct, para isso, precisamos nomear a struct com um apelido para que seja possível referencia-la dentro da própria struct. O ponteiro consome de 4 a 8 bytes de memória.

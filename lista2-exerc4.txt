@@ -1,0 +1,1 @@
+enquanto aux != null E aux->valor != num então... ou seja, enquanto a variavel auxiliar não for nulo, representando que a fila está vazia ou que a busca chegou ao ulitmo elemento, E o valor inteiro do elemente em que a variavel auxiliar está apontando for diferente do numero passado pela busca, o laço de repetição continua acontecendo.

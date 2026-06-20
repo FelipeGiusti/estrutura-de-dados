@@ -1,0 +1,1 @@
+Pop e Push. O Push insere um novo elemento no topo da pilha e o Pop remove o elemento do topo da pilha.

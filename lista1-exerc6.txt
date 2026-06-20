@@ -1,0 +1,1 @@
+A pilha está vazia ou perdemos o topo da pilha.

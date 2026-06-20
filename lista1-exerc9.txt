@@ -1,0 +1,4 @@
+typedef struct No{
+    int valor;
+    struct No *proximo;
+}No;
